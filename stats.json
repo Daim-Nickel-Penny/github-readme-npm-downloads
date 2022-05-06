@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "NPM",
-  "message": "jOOQ; SQL [insert into \"public\".\"download_count\" (\"package_name\", \"date\", \"count\") values (?, cast(? as date), ?)]; ERROR: could not access status of transaction 0\n  Detail: Could not write to file \"pg_subtrans/3DF8\" at offset 81920: No space left on device.; nested exception is org.postgresql.util.PSQLException: ERROR: could not access status of transaction 0\n  Detail: Could not write to file \"pg_subtrans/3DF8\" at offset 81920: No space left on device.Internal Server Error/npm-stat/api/download-counts02022-05-05T01:04:29.819+0000 Downloads",
+  "message": "155018 Downloads",
   "color": "orange",
   "style": "for-the-badge",
   "namedLogo": "npm"
